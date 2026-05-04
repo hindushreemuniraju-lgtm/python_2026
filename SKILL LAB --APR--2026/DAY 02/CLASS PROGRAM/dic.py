@@ -1,0 +1,9 @@
+d={"a":1}
+d["b"]=2
+print(d)
+d["a"]=3
+print(d)
+d[4]=5
+print(d)
+d=[(1,2)]
+print(d)
